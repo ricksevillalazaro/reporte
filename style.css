@@ -34,11 +34,12 @@ span[contenteditable] {
 
 /* heading */
 h1 {
-    font: bold 100% sans-serif;
-    letter-spacing: 0.5em;
+    font: bold 100% Roboto;
+    //*letter-spacing: 0.5em;*/
     text-align: center;
     text-transform: uppercase;
     margin-bottom: 1em; /* Añadido para espacio después del título */
+    font-size:14px;
 }
 
 /* table */
