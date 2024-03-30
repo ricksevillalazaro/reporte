@@ -85,7 +85,7 @@ header {
 
 header h1 {
     background: #27649d;
-    border-radius: 0.25em;
+    border-radius: 0.25em 0em 0.25em 0em;
     color: #FFF;
     margin: 0;
     padding: 0.5em 0;
@@ -102,7 +102,7 @@ header address {
 header span,
 header img {
     display: block;
-    float: right;
+    float: left;
     margin: 0 0 1em 1em;
     max-height: 25%;
     max-width: 60%;
